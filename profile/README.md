@@ -5,10 +5,10 @@ Welcome to the Quantum Engineering Polito (QEP) Repository, a collaborative spac
 here https://quantum-engineering-polito.github.io/CourseNotes/
 
 ## Course Notes ✍️
-It is the main repo, here you can find comprehensive information on collaborating and contributing.
+It is the main repo, Here you will find instructions on how to collaborate or install the repository locally. To collaborate you must become a member of the organization to do so refer to the section below
 
 ## Requesting Organization Membership 👨‍👩‍👧‍👦
-To become a member of our GitHub organization and access exclusive privileges, follow these steps:
+To become a member of our organization and access exclusive privileges, follow these steps:
 
 ### Visit Our Organization:
 Go to the Quantum Engineering Polito GitHub Organization page.
