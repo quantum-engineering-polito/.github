@@ -8,13 +8,5 @@ here https://quantum-engineering-polito.github.io/CourseNotes/
 It is the main repo, Here you will find instructions on how to collaborate or install the repository locally. To collaborate you must become a member of the organization to do so refer to the section below
 
 ## Requesting Organization Membership 👨‍👩‍👧‍👦
-To become a member of our organization and access exclusive privileges, follow these steps:
-
-### Visit Our Organization:
-Go to the Quantum Engineering Polito GitHub Organization page.
-
-### Request Membership:
-Click on the "Join" or "Request to Join" button available on the organization's page.
-
-### Wait for Approval:
-Your membership request will be reviewed by our administrators. Once approved, you'll receive access to organization resources and collaboration tools.
+Ask to join the organization on the Telegram group so that we can invite you, If you don't have a GitHub account, create one. 
+If you wish to start collaborating immediately, star the Course Notes project and follow the organization while waiting for the invitation.
